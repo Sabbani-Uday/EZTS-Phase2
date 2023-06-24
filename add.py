@@ -1,0 +1,6 @@
+x1=float(input("enter 1st no:"))
+x2=float(input("enter 2st no:"))
+x3=float(input("enter 3st no:"))
+x4=float(input("enter 4st no:"))
+x5=float(input("enter 5st no:"))
+print("sum",x1+x2+x3+x4+x5)

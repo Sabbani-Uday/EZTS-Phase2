@@ -1,0 +1,6 @@
+x=int(input("enter 1st no:"))
+y=float(input("enter 2st no:"))
+z=float(input("enter 3st no:"))
+print("int num",x)
+print("float num",y)
+print("float num",z)
